@@ -3,7 +3,7 @@
 Projet interactif réalisé dans le cadre de ma formation Développeur Web.
 
 **Demo live**
-[Voir la page](https://gclaude21.github.io/Bubble-Clicker/)
+[Voir la page](https://gclaude21.github.io/Bubble-clicker/)
 
 ## Objectif
 
